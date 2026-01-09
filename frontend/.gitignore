@@ -34,3 +34,12 @@ coverage
 
 # Vitest
 __screenshots__/
+
+# Laravel
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/storage/*.key
+backend/storage/*.lock
+backend/storage/logs/
+backend/public/storage
